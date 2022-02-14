@@ -20,6 +20,7 @@ requirements:
     - {{ compiler('cxx') }}
     - python {{ python }}
     - cmake
+    - make   # [unix]
   host:
     - python {{ python }}
     - boost-cpp {{ boost_cpp }}
