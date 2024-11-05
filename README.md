@@ -1,11 +1,11 @@
-About pyfitparquet
-==================
+About pyfitparquet-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pyfitparquet-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/databike-io/pyfitparquet
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pyfitparquet-feedstock/blob/main/LICENSE.txt)
 
 Summary: ETL support of Garmin FIT/TCX files to Apache Parquet
 
@@ -36,227 +36,283 @@ Current build status
         <table>
           <thead><tr><th>Variant</th><th>Status</th></tr></thead>
           <tbody><tr>
-              <td>linux_64_arrow_cpp6.0.1python3.10.____cpython</td>
+              <td>linux_64_arrow_cpp10.0.1python3.10.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux_64_arrow_cpp6.0.1python3.10.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_arrow_cpp10.0.1python3.10.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_arrow_cpp6.0.1python3.7.____cpython</td>
+              <td>linux_64_arrow_cpp10.0.1python3.11.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux_64_arrow_cpp6.0.1python3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_arrow_cpp10.0.1python3.11.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_arrow_cpp6.0.1python3.8.____cpython</td>
+              <td>linux_64_arrow_cpp10.0.1python3.12.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux_64_arrow_cpp6.0.1python3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_arrow_cpp10.0.1python3.12.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_arrow_cpp6.0.1python3.9.____cpython</td>
+              <td>linux_64_arrow_cpp10.0.1python3.8.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux_64_arrow_cpp6.0.1python3.9.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_arrow_cpp10.0.1python3.8.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_arrow_cpp7.0.0python3.10.____cpython</td>
+              <td>linux_64_arrow_cpp10.0.1python3.9.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux_64_arrow_cpp7.0.0python3.10.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_arrow_cpp10.0.1python3.9.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_arrow_cpp7.0.0python3.7.____cpython</td>
+              <td>linux_64_arrow_cpp11.0.0python3.10.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux_64_arrow_cpp7.0.0python3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_arrow_cpp11.0.0python3.10.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_arrow_cpp7.0.0python3.8.____cpython</td>
+              <td>linux_64_arrow_cpp11.0.0python3.11.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux_64_arrow_cpp7.0.0python3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_arrow_cpp11.0.0python3.11.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_arrow_cpp7.0.0python3.9.____cpython</td>
+              <td>linux_64_arrow_cpp11.0.0python3.12.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux_64_arrow_cpp7.0.0python3.9.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_arrow_cpp11.0.0python3.12.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_arrow_cpp8.0.1python3.10.____cpython</td>
+              <td>linux_64_arrow_cpp11.0.0python3.8.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux_64_arrow_cpp8.0.1python3.10.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_arrow_cpp11.0.0python3.8.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_arrow_cpp8.0.1python3.7.____cpython</td>
+              <td>linux_64_arrow_cpp11.0.0python3.9.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux_64_arrow_cpp8.0.1python3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_arrow_cpp11.0.0python3.9.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_arrow_cpp8.0.1python3.8.____cpython</td>
+              <td>linux_64_arrow_cpp12python3.10.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux_64_arrow_cpp8.0.1python3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_arrow_cpp12python3.10.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_arrow_cpp8.0.1python3.9.____cpython</td>
+              <td>linux_64_arrow_cpp12python3.11.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux_64_arrow_cpp8.0.1python3.9.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_arrow_cpp12python3.11.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_arrow_cpp9.0.0python3.10.____cpython</td>
+              <td>linux_64_arrow_cpp12python3.12.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux_64_arrow_cpp9.0.0python3.10.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_arrow_cpp12python3.12.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_arrow_cpp9.0.0python3.7.____cpython</td>
+              <td>linux_64_arrow_cpp12python3.8.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux_64_arrow_cpp9.0.0python3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_arrow_cpp12python3.8.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_arrow_cpp9.0.0python3.8.____cpython</td>
+              <td>linux_64_arrow_cpp12python3.9.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux_64_arrow_cpp9.0.0python3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_arrow_cpp12python3.9.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_arrow_cpp9.0.0python3.9.____cpython</td>
+              <td>linux_64_arrow_cpp13python3.10.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux_64_arrow_cpp9.0.0python3.9.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_arrow_cpp13python3.10.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_arrow_cpp6.0.1python3.10.____cpython</td>
+              <td>linux_64_arrow_cpp13python3.11.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx_64_arrow_cpp6.0.1python3.10.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_arrow_cpp13python3.11.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_arrow_cpp6.0.1python3.7.____cpython</td>
+              <td>linux_64_arrow_cpp13python3.12.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx_64_arrow_cpp6.0.1python3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_arrow_cpp13python3.12.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_arrow_cpp6.0.1python3.8.____cpython</td>
+              <td>linux_64_arrow_cpp13python3.8.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx_64_arrow_cpp6.0.1python3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_arrow_cpp13python3.8.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_arrow_cpp6.0.1python3.9.____cpython</td>
+              <td>linux_64_arrow_cpp13python3.9.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx_64_arrow_cpp6.0.1python3.9.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_arrow_cpp13python3.9.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_arrow_cpp7.0.0python3.10.____cpython</td>
+              <td>osx_64_arrow_cpp10.0.1python3.10.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx_64_arrow_cpp7.0.0python3.10.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_arrow_cpp10.0.1python3.10.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_arrow_cpp7.0.0python3.7.____cpython</td>
+              <td>osx_64_arrow_cpp10.0.1python3.11.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx_64_arrow_cpp7.0.0python3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_arrow_cpp10.0.1python3.11.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_arrow_cpp7.0.0python3.8.____cpython</td>
+              <td>osx_64_arrow_cpp10.0.1python3.12.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx_64_arrow_cpp7.0.0python3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_arrow_cpp10.0.1python3.12.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_arrow_cpp7.0.0python3.9.____cpython</td>
+              <td>osx_64_arrow_cpp10.0.1python3.8.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx_64_arrow_cpp7.0.0python3.9.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_arrow_cpp10.0.1python3.8.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_arrow_cpp8.0.1python3.10.____cpython</td>
+              <td>osx_64_arrow_cpp10.0.1python3.9.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx_64_arrow_cpp8.0.1python3.10.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_arrow_cpp10.0.1python3.9.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_arrow_cpp8.0.1python3.7.____cpython</td>
+              <td>osx_64_arrow_cpp11.0.0python3.10.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx_64_arrow_cpp8.0.1python3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_arrow_cpp11.0.0python3.10.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_arrow_cpp8.0.1python3.8.____cpython</td>
+              <td>osx_64_arrow_cpp11.0.0python3.11.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx_64_arrow_cpp8.0.1python3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_arrow_cpp11.0.0python3.11.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_arrow_cpp8.0.1python3.9.____cpython</td>
+              <td>osx_64_arrow_cpp11.0.0python3.12.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx_64_arrow_cpp8.0.1python3.9.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_arrow_cpp11.0.0python3.12.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_arrow_cpp9.0.0python3.10.____cpython</td>
+              <td>osx_64_arrow_cpp11.0.0python3.8.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx_64_arrow_cpp9.0.0python3.10.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_arrow_cpp11.0.0python3.8.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_arrow_cpp9.0.0python3.7.____cpython</td>
+              <td>osx_64_arrow_cpp11.0.0python3.9.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx_64_arrow_cpp9.0.0python3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_arrow_cpp11.0.0python3.9.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_arrow_cpp9.0.0python3.8.____cpython</td>
+              <td>osx_64_arrow_cpp12python3.10.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx_64_arrow_cpp9.0.0python3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_arrow_cpp12python3.10.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_arrow_cpp9.0.0python3.9.____cpython</td>
+              <td>osx_64_arrow_cpp12python3.11.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx_64_arrow_cpp9.0.0python3.9.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_arrow_cpp12python3.11.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_arrow_cpp12python3.12.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_arrow_cpp12python3.12.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_arrow_cpp12python3.8.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_arrow_cpp12python3.8.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_arrow_cpp12python3.9.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_arrow_cpp12python3.9.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_arrow_cpp13python3.10.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_arrow_cpp13python3.10.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_arrow_cpp13python3.11.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_arrow_cpp13python3.11.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_arrow_cpp13python3.12.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_arrow_cpp13python3.12.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_arrow_cpp13python3.8.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_arrow_cpp13python3.8.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_arrow_cpp13python3.9.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12085&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyfitparquet-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_arrow_cpp13python3.9.____cpython" alt="variant">
                 </a>
               </td>
             </tr>
